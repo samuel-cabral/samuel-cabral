@@ -1,16 +1,30 @@
-### Hi there 👋
+# Samuel Cabral
 
-<!--
-**samuel-cabral/samuel-cabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+ Hi!, I'm a full-stack developer in training at [@Rocketseat](https://rocketseat.com.br/) 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Seeking and applying knowledge all the time
+
+My learning is based on creating projects and completing challenges from **Rocketseat** bootcamps.
+
+I'm a full-stack developer in training at the **Rocketseat** School Bootcamps ([rocketseat.com.br](http://rocketseat.com.br/)), with approximately 6 months of experience in web and mobile development.
+
+I work on my personal projects with Node.js, React.js and React Native. I have solid knowledge in functional programming, OOP, HTML, CSS and Javascript.
+
+I am interested in Technologies such as Python / Django, Ruby / on Rails, in application scalability, infrastructure, best development practices, TDD and BDD.
+
+### 🎯 Goals for 2020
+
+- Conclude the Rocketseat bootcamps
+- Turn into hard skilled full-stack web and mobile developer
+- Positively influence the lives of people with my skills
+
+### ☕  Wanna chat?
+
+@ me on [Twitter](https://twitter.com/samuelcabral_) about of the following
+
+- Programming stuff
+- Guitar playing
+- French rap
+- Coffee
