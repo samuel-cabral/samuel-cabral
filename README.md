@@ -1,6 +1,6 @@
 # Samuel Cabral
 
- Hi, there!, I'm a full-stack developer in training at [@Rocketseat](https://rocketseat.com.br/) 🚀
+👋 Hi, there!, I'm a full-stack developer in training at [@Rocketseat](https://rocketseat.com.br/) 🚀
 
 ### 🚀 Seeking and applying knowledge all the time
 
