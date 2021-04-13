@@ -12,15 +12,16 @@ I work on my personal projects with Node.js, React.js and React Native. I have s
 
 I am interested in Technologies such as Python / Django, Ruby / on Rails, in application scalability, infrastructure, best development practices, TDD and BDD.
 
-### 🎯 Goals for 2020
+### 🎯 Goals for 2021
 
 - Conclude the Rocketseat bootcamps
+- To be hiring to a Junior Node/React Delevoper
 - Turn into hard skilled full-stack web and mobile developer
 - Positively influence the lives of people with my skills
 
 ### ☕  Wanna chat?
 
-@ me on [Twitter](https://twitter.com/samuelcabral_) about of the following
+@ me either on [Twitter](https://twitter.com/samuelcabral_) or on [Instagram](https://instagram.com/samuelcabral_) about of the following
 
 - Programming stuff
 - Guitar playing
