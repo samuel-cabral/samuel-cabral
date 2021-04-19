@@ -21,10 +21,10 @@ My learning is based on creating projects and completing challenges from **Rocke
 
 ## ☕  Wanna chat?
 
-@ me either on [Twitter](https://twitter.com/samuelcabral_) or on [Instagram](https://instagram.com/samuelcabral_) about of the following
+@ me either on [Twitter](https://twitter.com/samuelcabral_), [Instagram](https://instagram.com/samuelcabral_) or [Linkedin](https://linkedin.com/in/samuel-cabral) about of the following
 
 - Programming stuff
 - Guitar playing
 - Drawing
 - Francoton music
-- Coffee
+- Some coffee
