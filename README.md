@@ -12,19 +12,6 @@ My learning is based on creating projects and completing challenges from **Rocke
 
 🔎 I'm interested in Python / Django, Ruby on Rails, infrastructure and application scalability, the best development practices, TDD and DDD and I love studying software engineering, Scrum and design patterns.
 
-## 🎯 Goals for 2021
-
-- Conclude the Rocketseat bootcamps
-- To be hiring to a Junior Node/React Delevoper
-- Turn into hard skilled full-stack web and mobile developer
-- Positively influence the lives of people with my skills
-
 ## ☕  Wanna chat?
 
-@ me either on [Twitter](https://twitter.com/samuelcabral_), [Instagram](https://instagram.com/samuelcabral_) or [Linkedin](https://linkedin.com/in/samuel-cabral) about of the following
-
-- Programming stuff
-- Guitar playing
-- Drawing
-- Francoton music
-- Some coffee
+@ me either on [Twitter](https://twitter.com/samuelcabral_), [Instagram](https://instagram.com/samuelcabral_) or [Linkedin](https://linkedin.com/in/samuel-cabral) 
