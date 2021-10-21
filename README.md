@@ -6,7 +6,7 @@
 
 My learning is based on creating projects and completing challenges from **Rocketseat** bootcamps.
 
-👨‍💻 I'm a trainee Node.js, ReactJS and React Native developer at Pinheiro's Supermarket. I'm looking for Node, React and React Native Junior developer jobs.
+👨‍💻 I'm a Full Stack Web JavaScript Developer.
 
 🚀 I'm trained in the GoStack bootcamp of rocketseat.com.br, a training focused on the development of web applications with Node.js, ReactJS and mobile cross-platform with React Native.
 
