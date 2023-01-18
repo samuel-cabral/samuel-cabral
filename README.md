@@ -1,6 +1,6 @@
 # Hi, there! I'm Samuel Cabral
 
-👋 I'm a React Developer at Ambar, with about 1 year of experience working with Nodejs and Reactjs. 🚀
+👋 I'm a Frontend Developer at [TheMembers](https://site.themembers.com.br/), with about 2 year of experience working with Nodejs and Reactjs. 🚀
 
 ## 🚀 Seeking and applying knowledge all the time
 
