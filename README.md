@@ -1,17 +1,30 @@
-# Hi, there! I'm Samuel Cabral
+# 👋 Hey, I'm Samuel Cabral!
 
-👋 I'm a Frontend Developer at [TheMembers](https://site.themembers.com.br/), with about 2 year of experience working with Nodejs and Reactjs. 🚀
+🔥 Passionate about development, I live to create projects that make a difference, with interfaces that are a feast for the eyes and user experiences that are memorable.
 
-## 🚀 Seeking and applying knowledge all the time
+## 🚀 My Journey
 
-✏️ My learning is based on creating projects and completing challenges from Rocketseat bootcamps.
+- 🎓 Started as a full-stack intern, getting hands-on with various projects and helping to automate and make processes more efficient in different areas.
 
-🚀 I'm trained in the GoStack bootcamp of rocketseat.com.br, a training focused on the development of web applications with Node.js, ReactJS and mobile cross-platform with React Native.
+- 💼 Progressed in my career working as a full-stack and front-end developer at companies that are benchmarks in their markets, like **G4Flex** and **Ambar**. There, I had the chance to elevate the platforms to a new level, positively impacting the user experience.
 
-👨‍💻 Experienced Backend using Nodejs, JavaScript, TypeScript, ExpressJS, KnexJS, Sequelize, TypeORM, Postgres, MySQL and Oracle.
+- 🌟 Currently, I'm part of the **TheMembers** team, where I'm a key piece in building and optimizing platforms that have shown user growth and satisfaction.
 
-🖥️ Experienced Frontend using Reactjs, Styled Components, Material-UI and MirageJS to simulate API and databases.
+## 🛠️ Technologies and Frameworks
 
-## ☕  Wanna chat?
+I work with an arsenal of technologies, always in search of best practices:
 
-@ me either on [Twitter](https://twitter.com/samuelcabral_) or [Instagram](https://instagram.com/samuelcabral_)
+- **React**
+- **Next.js**
+- **TypeScript**
+- And many more!
+
+## 🎯 Focus on Quality
+
+- 💪 Mastering everything from agile methodologies to a wide range of frameworks, I don't mess around when it comes to quality and attention to detail.
+
+- 🤝 I'm always open to collaborating on challenging projects, so if you need someone committed on any front-end team, let's talk!
+
+## 📬 Contact
+
+Want to know more about me or discuss an opportunity? Send me an [email](mailto:samuelcabral.mail@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/samuel-cabral).
