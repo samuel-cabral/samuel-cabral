@@ -8,7 +8,9 @@
 
 - 💼 Progressed in my career working as a full-stack and front-end developer at companies that are benchmarks in their markets, like **G4Flex** and **Ambar**. There, I had the chance to elevate the platforms to a new level, positively impacting the user experience.
 
-- 🌟 Currently, I'm part of the **TheMembers** team, where I'm a key piece in building and optimizing platforms that have shown user growth and satisfaction.
+- 🌟 At **TheMembers**, I played a key role in building and optimizing platforms that demonstrated significant user growth and satisfaction. I led the migration to modern frameworks, developed impactful features, and optimized performance, resulting in a substantial increase in user engagement.
+
+- 🚀 Currently, I'm part of the **Algorithmus** team, where I lead the development of Readi’s frontend applications. My focus is on creating robust and scalable interfaces using Next.js, TypeScript, and Material-UI, ensuring high-quality user experiences and technical excellence.
 
 ## 🛠️ Technologies and Frameworks
 
@@ -27,4 +29,4 @@ I work with an arsenal of technologies, always in search of best practices:
 
 ## 📬 Contact
 
-Want to know more about me or discuss an opportunity? Send me an [email](mailto:samuelcabral.mail@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/samuel-cabral).
+Want to know more about me or discuss an opportunity? Add me on [LinkedIn](https://linkedin.com/in/samuel-cabral).
